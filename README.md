@@ -1,0 +1,2 @@
+# Tree-GUI---Java-Programming-Project
+This project visualizes a branching Tree according to the depth defined by the user. In this project user can input the depth and see how the branching tree is build according to the depth. Visualizing a branching tree is a complicated task and it requires recursion, looping and UI knowledge to complete the project. In this project we use JavaFx for the interface. So, here we use components like BorderPane, GridPane, Canvas, Buttons, etc. 
